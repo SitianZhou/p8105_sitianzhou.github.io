@@ -1,0 +1,13 @@
+---
+title: "Sitian Zhou's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+A brief introductory landing page
+
+This is a link [resume](resume.html) of my resume
+
+
