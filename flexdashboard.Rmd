@@ -1,0 +1,80 @@
+---
+title: "flexdashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+```
+
+Column {data-width=550}
+-----------------------------------------------------------------------
+
+### Chart A
+
+Order hours for deli products in each aisle
+
+```{r}
+data("instacart")
+
+deli_df <-
+  instacart |> 
+  filter(department == "deli") |> 
+  mutate(
+    order_dow_label = 
+      recode(order_dow,
+             "0" = "Sun",
+             "1" = "Mon", 
+             "2" = "Tue",
+             "3" = "Wed",
+             "4" = "Thu", 
+             "5" = "Fri",
+             "6" = "Sat"))
+```
+
+
+```{r}
+deli_df |> 
+  mutate(aisle = fct_reorder(aisle, order_hour_of_day)) |> 
+  plot_ly(x = ~aisle, 
+          y = ~order_hour_of_day, 
+          color = ~aisle, 
+          type = "box", 
+          colors = "viridis")
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Chart B
+
+Number of products ordered in deli department across the week
+
+```{r}
+deli_df |> 
+  count(order_dow_label) |> 
+  mutate(order_dow_label = fct_reorder(order_dow_label, n)) |> 
+  plot_ly(x = ~order_dow_label, 
+          y = ~n, 
+          color = ~order_dow_label, 
+          type = "bar", 
+          colors = "viridis") |> 
+  layout(xaxis = list(title = "day of the week"))
+```
+
+### Chart C
+
+Days since the last order for products in deli department
+
+```{r}
+deli_df |> 
+  mutate(aisle = fct_reorder(aisle, days_since_prior_order)) |> 
+  plot_ly(x = ~aisle, y = ~days_since_prior_order, color = ~aisle, type = "violin", colors = "viridis", meanline = list(visible = T))
+```
+

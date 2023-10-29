@@ -10,4 +10,4 @@ A brief introductory landing page
 
 This is a link [resume](resume.html) of my resume
 
-
+This is a link [plotly](flexdashboard.html) for plots

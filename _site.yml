@@ -3,12 +3,19 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
+    - text: "About me"
       href: about.html
+    - text: "Academic experience"
+      href: academic.html
+    - text: "Dashboard"
+      href: flexdashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<sz3213@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/SitianZhou/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/sitian-zhou-1a8a08232
+      
 output:
   html_document:
     theme: cerulean
