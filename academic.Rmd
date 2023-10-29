@@ -1,9 +1,53 @@
 ---
-title: "academic"
-author: "Sitian Zhou"
-date: "2023-10-29"
+title: "Academic Experience"
 output: html_document
 ---
+
+## Education
+
+**Columbia University Mailman School of Public Health**, New York, NY | Sept. 5, 2023 – Jun. 2025 (Expected)
+
+
+**Master of Science: Biostatistics**
+
+  *	Relevant Coursework: Probability, Epidemiology, Biostatistical Methods, Data Science
+
+**University of California, Davis**, Davis, CA | Sept. 25, 2019 –Mar. 24, 2023
+**Bachelor of Science: Major in Biotechnology and Minor in Statistics** 
+
+* Edward Frank Kraft Award, Jan. 2020
+
+* Dean’s List: Fall Quarter 2019, Winter Quarter 2020, Fall Quarter 2020, Winter Quarter 2021, Spring Quarter 2021, Winter Quarter 2022
+
+## Internship Experience
+**Diane Beckles Lab | Department of Plant Sciences   | UC Davis**  | Jan. 2022 – Mar. 2023
+
+Research Intern
+
+* Identified 25 genes that affected the degradation of tomato fruit cell walls during fruit ripening and summarized their effects. Annotated these genes using RNA-seq data, created heat maps to visualize gene expression differences, compared and analyzed the possible causes of the differences in each group;
+
+*	Performed statistical analysis of the data, using ANOVA to test for statistical differences between multiple experimental groups, and calculated Pearson correlation coefficients to assess potential correlations between gene expression and DNA methylation;
+
+*	Visualized experiment results using R, including boxplots, bar plots, histograms, heatmaps, and gene networks. 
+
+*	Contributed to a research paper as second author, submitted Oct. 2023.
+
+
+**Zhejiang Free Trade Zone Baoxing Biotechnology Co. LTD, Zhoushan, China** | Jul. – Sept. 2022
+
+Research Intern
+
+*	Participated in the microbiological examination of samples and was responsible for preparing culture media, making sample dilutions at different concentrations, and spreading each to the medium. Used viable count to determine the number of colonies of bacteria;
+
+*	Performed broth culture for bacteria. Inoculated and incubated the bacteria, measuring their growth every two hours using spectrophotometers. Plotted the growth pattern of the bacteria and determined the optimal temperature
+
+## Skills
+
+*	Programming: R, Python
+
+*	Statistics: Linear Regression, ANOVA, Nonparametric Statistics, Applied Statistics for the Biological Sciences
+
+*	Microbiology: Bacteria Isolation and Incubation, Gram stain, Spore stain, Bacteriophage Titer, Antimicrobial Susceptibility Testing, Biochemical Tests for Gram Positive and Negative Bacteria, Bright-field microscopy
 
 
 

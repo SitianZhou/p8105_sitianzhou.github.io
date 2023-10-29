@@ -6,8 +6,12 @@ output:
     toc_float: true
 ---
 
-A brief introductory landing page
+Welcome to my website!
 
-This is a link [resume](resume.html) of my resume
+# About me
 
-This is a link [plotly](flexdashboard.html) for plots
+I'm Sitian Zhou, a first-year MS student at Columbia University Mailman School of Public Health. I grow up in Zhejiang, China, and came to the US in 2019 for my undergraduate study at UC Davis with a major in biotechnology and a minor in statistics. After completing my Bachelor's degree, I came to Columbia University to pursue a Master's degree in biostatistics. You can find my [academic experience](academic.html) here.
+
+# Dashboard
+
+Here is a [flexdashboard](flexdashboard.html) of three plots created using dataset `instacart`.

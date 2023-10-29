@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About me"
-      href: about.html
     - text: "Academic experience"
       href: academic.html
     - text: "Dashboard"
