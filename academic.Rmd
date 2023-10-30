@@ -13,6 +13,7 @@ output: html_document
   *	Relevant Coursework: Probability, Epidemiology, Biostatistical Methods, Data Science
 
 **University of California, Davis**, Davis, CA | Sept. 25, 2019 –Mar. 24, 2023
+
 **Bachelor of Science: Major in Biotechnology and Minor in Statistics** 
 
 * Edward Frank Kraft Award, Jan. 2020
@@ -43,11 +44,11 @@ Research Intern
 
 ## Skills
 
-*	Programming: R, Python
+*	**Programming**: R, Python
 
-*	Statistics: Linear Regression, ANOVA, Nonparametric Statistics, Applied Statistics for the Biological Sciences
+*	**Statistics**: Linear Regression, ANOVA, Nonparametric Statistics, Applied Statistics for the Biological Sciences
 
-*	Microbiology: Bacteria Isolation and Incubation, Gram stain, Spore stain, Bacteriophage Titer, Antimicrobial Susceptibility Testing, Biochemical Tests for Gram Positive and Negative Bacteria, Bright-field microscopy
+*	**Microbiology**: Bacteria Isolation and Incubation, Gram stain, Spore stain, Bacteriophage Titer, Antimicrobial Susceptibility Testing, Biochemical Tests for Gram Positive and Negative Bacteria, Bright-field microscopy
 
 
 
