@@ -13,6 +13,9 @@ library(plotly)
 library(p8105.datasets)
 ```
 
+The plots in this page were created using the dataset `instacart`. The plots focused on purchasing hour and times for products in deli department.
+
+
 Column {data-width=550}
 -----------------------------------------------------------------------
 
@@ -54,7 +57,7 @@ Column {data-width=450}
 
 ### Chart B
 
-Number of products ordered in deli department across the week
+Number of deli products ordered across the week
 
 ```{r}
 deli_df |> 

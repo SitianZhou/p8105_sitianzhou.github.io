@@ -10,7 +10,7 @@ Welcome to my website!
 
 # About me
 
-I'm Sitian Zhou, a first-year MS student at Columbia University Mailman School of Public Health. I grow up in Zhejiang, China, and came to the US in 2019 for my undergraduate study at UC Davis with a major in biotechnology and a minor in statistics. After completing my Bachelor's degree, I came to Columbia University to pursue a Master's degree in biostatistics. You can find my [academic experience](academic.html) here.
+I'm Sitian Zhou, a first-year MS student at Columbia University Mailman School of Public Health. I grew up in Zhejiang, China, and came to the US in 2019 for my undergraduate study at UC Davis with a major in biotechnology and a minor in statistics. After completing my Bachelor's degree, I came to Columbia University to pursue a Master's degree in biostatistics. You can find my [academic and professional experience](academic.html) here.
 
 # Dashboard
 
