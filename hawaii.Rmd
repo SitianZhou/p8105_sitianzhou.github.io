@@ -1,0 +1,29 @@
+---
+title: "Hawaii"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Sunrise
+
+![](images/sunrise.jpg)
+
+
+
+
+Honolulu - Nuuanu Valley
+
+![](images/valley.jpg)
+
+Diamond Head
+
+![](images/zss.jpg)
+
+
+
+
+
+
+
